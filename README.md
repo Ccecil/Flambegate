@@ -8,3 +8,4 @@ Can be controlled by "dumb" devices such as my ThermistorComparator board.
 -Standalone option via optional 5v Recom regulator
 -Safely switches up to ~8a @28v DC
 -Inline fuseholder added
+-Can use Amass XT30 Horizontal or vertical connectors or bare wires (strain relief holes in board)
