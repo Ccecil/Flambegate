@@ -9,3 +9,5 @@ Can be controlled by "dumb" devices such as my ThermistorComparator board.
 -Safely switches up to ~8a @28v DC
 -Inline fuseholder added
 -Can use Amass XT30 Horizontal or vertical connectors or bare wires (strain relief holes in board)
+
+Available at: https://www.robosprout.com/product/flambegate-v0-1/
